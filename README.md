@@ -1,6 +1,6 @@
 Harvest Hope: Redirecting Food Waste to Fight Hunger
 
-Project Overview
+Project Overview:
 
 Harvest Hope is a real-time Salesforce project designed to equip students and cross-technology professionals with practical knowledge in Salesforce platform essentials. By completing this project, participants will gain hands-on experience with Salesforce Admin, Development, and Community features, which can be showcased on resumes to enhance career transitions into Salesforce roles.
 
@@ -10,7 +10,7 @@ Objectives
 2.	To provide real-time insights into food waste, donor engagement, and meals served to enhance hunger relief efforts.
 3.	To offer hands-on Salesforce skills, particularly in Admin, Development, and Community components, supporting resume-building for Salesforce roles.
    
-Salesforce Admin
+Salesforce Admin:
 
 1.	Objects & Relationships:
    
@@ -30,7 +30,7 @@ Salesforce Admin
   	
     o	Tailored access to enable participants to log, manage, and track donations.
   	
-Salesforce Development
+Salesforce Development:
 
 1.	Apex Triggers:
    
@@ -48,7 +48,7 @@ Salesforce Development
    
     o	External integrations to connect the Salesforce system with other applications or platforms for data sharing and real-time updates.
   	
-Lightning Web Components (LWC)
+Lightning Web Components (LWC):
 
 1.	Custom Components:
    
@@ -70,11 +70,11 @@ Lightning Web Components (LWC)
    
      o	LWC components are embedded within the Customer Community for seamless donor and recipient engagement.
   	
-Reusable Error Handling Framework
+Reusable Error Handling Framework:
 
 •	A framework to capture, log, and handle errors effectively within the application. This ensures improved error visibility and troubleshooting across various components, enhancing system reliability.
 
-Project Structure
+Project Structure:
 
 1.	Admin: Configuration of objects, fields, sharing rules, and community settings.
 2.	Development: Includes Apex triggers, batch processing, future methods, and REST API integrations.
