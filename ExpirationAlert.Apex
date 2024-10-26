@@ -10,3 +10,16 @@ trigger ExpirationAlert on Food_Donation__c (before insert, before update) {
         }
     }
 }
+
+//testing
+@isTest
+public class ExpirationAlertTest {
+    @isTest
+    static void testExpirationAlert() {
+        Food_Donation__c donation = new Food_Donation__c();
+        donation.Expiration_Date__c = Date.today().addDays(2); 
+        insert donation;
+        Test.startTest();
+        Test.stopTest();
+    }
+}
